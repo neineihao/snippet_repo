@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: fb
+# key: fb
+# --
+\begin{figure}
+  \caption{$0}
+  \centering
+    \includegraphics[width=0.5\textwidth]{$1}
+\end{figure}

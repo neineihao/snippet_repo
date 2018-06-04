@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ib
+# key: ib
+# --
+\begin{itemize}
+$0
+\end{itemize}

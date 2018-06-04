@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: A4
+# key: A4
+# --
+\usepackage[a4paper, total={7in, 9in}]{geometry}
